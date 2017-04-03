@@ -1,0 +1,71 @@
+H:\chess\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\chess\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+H:\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+H:\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+H:\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\blackout.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_bishop.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_king.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_knight.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_pawn.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_queen.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_rook.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_square.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_bishop.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_king.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_knight.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_pawn.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_queen.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_rook.png
+H:\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_square.png
+H:\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Chess.resources
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\blackout.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_bishop.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_king.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_knight.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_pawn.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_queen.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_rook.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_square.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_bishop.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_king.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_knight.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_pawn.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_queen.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_rook.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_square.png
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Chess.resources
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\home\Desktop\Работы и учебники\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\blackout.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_bishop.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_king.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_knight.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_pawn.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_queen.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_rook.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\black_square.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_bishop.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_king.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_knight.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_pawn.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_queen.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_rook.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\chess_pieces\white_square.png
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Chess.resources
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Home\Desktop\Работы и учебники\First course\Мои работы\Курсовая работа - Реализация игры Шахматы (I курс)\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\HSE\First course\Курсовая работа\Программа\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\HSE\First course\Курсовая работа\Программа\chess\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
